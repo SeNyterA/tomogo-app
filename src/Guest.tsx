@@ -8,7 +8,7 @@ export default function Guest() {
   return (
     <WebView
       style={{ marginTop: insets.top }}
-      source={{ uri: "https://tomogo-travel-dev.tgl-cloud.com/" }}
+      source={{ uri: "https://tomogo-travel-dev.tgl-cloud.com/initial" }}
     />
   );
 }

@@ -8,7 +8,7 @@ export default function Guide() {
   return (
     <WebView
       style={{ marginTop: insets.top }}
-      source={{ uri: "https://guide.tomogo-travel-dev.tgl-cloud.com/" }}
+      source={{ uri: "https://guide.tomogo-travel-dev.tgl-cloud.com/initial" }}
     />
   );
 }
